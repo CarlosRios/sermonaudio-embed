@@ -10,11 +10,12 @@ Easily embed SermonAudio.com sermons.
 You can install SermonAudio Embed by downloading the zip of this repo and uploading it to your plugin directory. SermonAudio Embed will be available in the WordPress plugin repo soon.
 
 To upload SermonAudio Embed follow these steps
-1. Navigate to 'Add New' in the plugins dashboard
-2. Navigate to the 'Upload' area
-3. Select `sermonaudio-embed.zip` from your computer
-4. Click 'Install Now'
-5. Activate the plugin in the Plugin dashboard
+
+1. Navigate to 'Add New' in the plugins dashboard 
+2. Navigate to the 'Upload' area 
+3. Select `sermonaudio-embed.zip` from your computer 
+4. Click 'Install Now' 
+5. Activate the plugin in the Plugin dashboard 
 
 ## What Does SermonAudio Embed Do?
 SermonAudio Embed uses WordPress' Embed API to allow you to easily embed sermons into your posts, pages, and custom post types simply by inserting a link to the sermonaudio.com sermon.
