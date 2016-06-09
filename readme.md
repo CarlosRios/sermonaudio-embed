@@ -1,5 +1,5 @@
 ## SermonAudio Embed
-Easily embed SermonAudio.com sermons.
+Automatically embed SermonAudio.com sermons
 
 **Version:**			1.0  
 **Requires at least:**	2.9  

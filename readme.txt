@@ -9,7 +9,7 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Easily embed SermonAudio.com sermons.
+Automatically embed SermonAudio.com sermons
 
 == Description ==
 SermonAudio Embed uses WordPress' Embed API to allow you to easily embed sermons into your posts, pages, and custom post types simply by inserting a link to the sermonaudio.com sermon.
